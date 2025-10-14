@@ -5,4 +5,4 @@ ultralytics
 pillow
 plotly
 numpy
-opencv-python-headless
+opencv-python-headles
