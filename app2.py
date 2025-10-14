@@ -20,7 +20,7 @@ st.set_page_config(
 # ---------------------------
 # Ruta al modelo entrenado
 # ---------------------------
-MODEL_PATH = r"C:\proyecto grafica off 3\runs\classify\modelo_enfermedades_ojo\weights\best.pt"
+MODEL_PATH = "best.pt"
 
 # ---------------------------
 # Descripciones
@@ -200,3 +200,4 @@ st.markdown(
     "<div style='text-align:center; color:#9aa6b2'>© 2025 — Detección de Enfermedades Oculares · DarkPapaletax</div>",
     unsafe_allow_html=True,
 )
+
